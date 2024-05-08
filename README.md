@@ -1,2 +1,3 @@
-# T-matrix-method-for-calculating-the-scattering-field-of-multiple-2D-regular-cylinders
-This is the code for my paper. The T-matrix for a single multi-layer cylinder is calculated with Mie theory, then a recursive T-matrix method is used for multiple cylinders.
+This Matlab code calculates the scattering field of multiple multilayer 2-D plasma cylinders using T-matrix method. This method can also be used for approximately estimating the scattering field of long and thin 3-D cylinders. The T-matrix of a single cylinder can be calculated by generalized reflection coefficient method, then a T-matrix equation is formed for the multiple scattering problem. 
+
+Notice: Large number of Mie series is needed for larger-scale problem. T-matrix method is suitable for calculating the scattering of many compact (~10 wavelength) scatters.
