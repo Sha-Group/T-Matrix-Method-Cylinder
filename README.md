@@ -12,4 +12,4 @@ translation_matrix.m: Translation matrix from Hankel to Bessel function
 
 translation_matrix2.m: Translation matrix from Hankel to Hankel function
 
-Notice: Large number of Mie series is needed for larger-scale problem. T-matrix method is suitable for calculating the scattering of many compact (~10 wavelength) scatters.
+Notice: Large number of Mie series is needed for larger-scale problem. T-matrix method is suitable for many compact (~10 wavelength) scatterers.
