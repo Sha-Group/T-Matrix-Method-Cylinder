@@ -11,8 +11,8 @@ T_matrix_for_Multiple_Cylinders.m: The T-matrix of a single multilayer cylinder 
 translation_matrix.m: Translation matrix from Hankel to Bessel function
 
 translation_matrix2.m: Translation matrix from Hankel to Hankel function
+
+Notice: Large number of Mie series is needed for larger-scale problem. T-matrix method is suitable for many compact (~10 wavelength) scatterers.
 ## Other information
 Repository Author: Shuai S. A. Yuan
 Email: shuaiyuan1997@zju.edu.cn
-
-Notice: Large number of Mie series is needed for larger-scale problem. T-matrix method is suitable for many compact (~10 wavelength) scatterers.
