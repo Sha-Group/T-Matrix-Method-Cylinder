@@ -15,4 +15,5 @@ translation_matrix2.m: Translation matrix from Hankel to Hankel function
 Notice: Large number of Mie series is needed for larger-scale problem. T-matrix method is suitable for many compact (~10 wavelength) scatterers.
 ## Other information
 Repository Author: Shuai S. A. Yuan
+
 Email: shuaiyuan1997@zju.edu.cn
